@@ -1,8 +1,10 @@
 # Hey, I'm Touseef 👋
 
-**Product Owner at Broadridge (fintech) · 12+ years · Builds AI tools for BAs & Product Owners**
+**AI Product Owner at Broadridge · 12+ years in enterprise software (CGI, Freyr, Broadridge)**
 
-I spent 12 years translating messy stakeholder conversations into working software. Somewhere along the way, I started building AI tools to make that process faster — and they actually worked.
+I spent over a decade at CGI building AI products for Oil & Gas — Text-to-SQL chatbots, RAG knowledge bases, troubleshooting assistants — before moving into Product Ownership at Freyr (Life Sciences) and now Broadridge (fintech).
+
+I build AI tools that solve real workflow problems. Not demos. Not toy projects. Tools that actually ship.
 
 ---
 
@@ -17,7 +19,7 @@ I spent 12 years translating messy stakeholder conversations into working softwa
 
 ### 🛠️ Stack
 
-`Python` `Streamlit` `Agno` `DeepSeek` `Gemini` `Agents` `Prompt Engineering`
+`Python` `Streamlit` `Agno` `DeepSeek` `Gemini` `RAG` `Prompt Engineering` `Agents`
 
 ---
 
